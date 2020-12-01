@@ -1,6 +1,3 @@
-/**
- * 全局样式
- */
 @font-face {
   font-family: 'toutiao';
   src: url('//at.alicdn.com/t/font_1807762_mwbzdo1z7h.eot?t=1589005330376');
@@ -77,16 +74,4 @@
 }
 .toutiao-lishi:before {
   content: '\e614';
-}
-body {
-  background-color: #f5f7f9;
-}
-.app-nav-bar {
-  background-color: #3296fa;
-}
-.app-nav-bar .van-nav-bar__title {
-  color: #fff;
-}
-.app-nav-bar .van-icon {
-  color: #fff;
 }

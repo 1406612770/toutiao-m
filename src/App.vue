@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    he
+    <!-- 路由出口 -->
     <router-view/>
   </div>
 </template>
